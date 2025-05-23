@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1747602697",
+        "python_version": "3.8.20 | packaged by conda-forge | (default, Sep 30 2024, 17:44:03) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Admin\\anaconda3\\envs\\mlagents-env\\Scripts\\mlagents-learn config/food_collector.yaml --run-id=good_food_run_1 --env=C:\\Users\\Admin\\GoodFoodAgent\\Build\\GoodFoodAgent.exe --time-scale=20 --train",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.13.1+cpu",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1747602761"
+    },
+    "total": 63.757508699999995,
+    "count": 1,
+    "self": 0.06076039999999949,
+    "children": {
+        "run_training.setup": {
+            "total": 0.22600320000000007,
+            "count": 1,
+            "self": 0.22600320000000007
+        },
+        "TrainerController.start_learning": {
+            "total": 63.470745099999995,
+            "count": 1,
+            "self": 0.00027989999999533666,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 63.4704087,
+                    "count": 1,
+                    "self": 63.4704087
+                },
+                "TrainerController._save_models": {
+                    "total": 5.649999999945976e-05,
+                    "count": 1,
+                    "self": 5.649999999945976e-05
+                }
+            }
+        }
+    }
+}

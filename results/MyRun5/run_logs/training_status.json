@@ -1,0 +1,29 @@
+{
+    "FoodCollector": {
+        "checkpoints": [
+            {
+                "steps": 334110,
+                "file_path": "results\\MyRun5\\FoodCollector\\FoodCollector-334110.onnx",
+                "reward": -0.05497186076946747,
+                "creation_time": 1747749074.9374895,
+                "auxillary_file_paths": [
+                    "results\\MyRun5\\FoodCollector\\FoodCollector-334110.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 334110,
+            "file_path": "results\\MyRun5\\FoodCollector.onnx",
+            "reward": -0.05497186076946747,
+            "creation_time": 1747749074.9374895,
+            "auxillary_file_paths": [
+                "results\\MyRun5\\FoodCollector\\FoodCollector-334110.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
