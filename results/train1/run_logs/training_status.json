@@ -1,0 +1,38 @@
+{
+    "FoodCollector": {
+        "checkpoints": [
+            {
+                "steps": 499962,
+                "file_path": "results\\train1\\FoodCollector\\FoodCollector-499962.onnx",
+                "reward": 2.4348442029953,
+                "creation_time": 1748469714.6468794,
+                "auxillary_file_paths": [
+                    "results\\train1\\FoodCollector\\FoodCollector-499962.pt"
+                ]
+            },
+            {
+                "steps": 500262,
+                "file_path": "results\\train1\\FoodCollector\\FoodCollector-500262.onnx",
+                "reward": 2.3711326400438946,
+                "creation_time": 1748469714.8857327,
+                "auxillary_file_paths": [
+                    "results\\train1\\FoodCollector\\FoodCollector-500262.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500262,
+            "file_path": "results\\train1\\FoodCollector.onnx",
+            "reward": 2.3711326400438946,
+            "creation_time": 1748469714.8857327,
+            "auxillary_file_paths": [
+                "results\\train1\\FoodCollector\\FoodCollector-500262.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

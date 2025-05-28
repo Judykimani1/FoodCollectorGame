@@ -177,7 +177,7 @@ PrefabInstance:
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 5022602860645237092, guid: c40210fb5d979514e80feabdbaf7e576, type: 3}
+      objectReference: {fileID: 5022602860645237092, guid: e9f167990d531944a851b6a75e414f2c, type: 3}
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_BehaviorName
       value: FoodCollector
@@ -274,7 +274,7 @@ PrefabInstance:
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 5022602860645237092, guid: c40210fb5d979514e80feabdbaf7e576, type: 3}
+      objectReference: {fileID: 5022602860645237092, guid: e9f167990d531944a851b6a75e414f2c, type: 3}
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_BehaviorName
       value: FoodCollector
@@ -386,7 +386,7 @@ PrefabInstance:
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 5022602860645237092, guid: c40210fb5d979514e80feabdbaf7e576, type: 3}
+      objectReference: {fileID: 5022602860645237092, guid: e9f167990d531944a851b6a75e414f2c, type: 3}
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_BehaviorName
       value: FoodCollector
@@ -676,7 +676,7 @@ PrefabInstance:
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 5022602860645237092, guid: c40210fb5d979514e80feabdbaf7e576, type: 3}
+      objectReference: {fileID: 5022602860645237092, guid: e9f167990d531944a851b6a75e414f2c, type: 3}
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_BehaviorName
       value: FoodCollector
@@ -819,7 +819,7 @@ PrefabInstance:
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 5022602860645237092, guid: c40210fb5d979514e80feabdbaf7e576, type: 3}
+      objectReference: {fileID: 5022602860645237092, guid: e9f167990d531944a851b6a75e414f2c, type: 3}
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_BehaviorName
       value: FoodCollector
@@ -931,7 +931,7 @@ PrefabInstance:
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 5022602860645237092, guid: c40210fb5d979514e80feabdbaf7e576, type: 3}
+      objectReference: {fileID: 5022602860645237092, guid: e9f167990d531944a851b6a75e414f2c, type: 3}
     - target: {fileID: 3648576203723200836, guid: f955e2aa1688e614d9ae9c67898f3940, type: 3}
       propertyPath: m_BehaviorName
       value: FoodCollector
